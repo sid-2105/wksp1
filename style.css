@@ -40,6 +40,10 @@
     margin: 0 1vw;
 }
 
+.header_right a:hover {
+    color: #00b4d8;
+}
+
 .main{
     min-height: 100vh;
     display: flex;
